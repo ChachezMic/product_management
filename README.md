@@ -1,2 +1,2 @@
 # product_management
-Building A pduct management software using flask api
+Building A product management software using flask.
